@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="suryak542005/dockerhub"
+IMAGE_NAME="suryak542005/task2"
 TAG="latest"
-CONTAINER_NAME="my-container"
+CONTAINER_NAME="my-container1"
 
 # Stop and remove any existing container with the same name
 docker stop $CONTAINER_NAME || true

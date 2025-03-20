@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="suryak542005/dockerhub"
+IMAGE_NAME="suryak542005/task2"
 TAG="latest"
 
 # Build Docker image
